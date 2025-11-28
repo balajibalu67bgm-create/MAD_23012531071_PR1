@@ -5,4 +5,9 @@ Declares and initializes variables of types: Int, Double, Float, Long, Short, By
 Displays them using println().
 ![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PR1/blob/a131ca5d7f5c12a279d5185ac7c488f5680e3ccf/Screenshot%202025-11-28%20103136.png)
 
-![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PR1/blob/bcd13f86c6f15a22ba23c5cea682497aa1e0f0d3/Screenshot%202025-11-28%20103136.png)
+Concepts Covered: Variables, Data Types, Printing Output.
+
+1.2 Type Conversion
+
+Demonstrates type casting and conversion functions in Kotlin: Int → Double String → Int String → Double
+![image alt]()
