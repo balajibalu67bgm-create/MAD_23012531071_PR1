@@ -10,4 +10,4 @@ Concepts Covered: Variables, Data Types, Printing Output.
 1.2 Type Conversion
 
 Demonstrates type casting and conversion functions in Kotlin: Int → Double String → Int String → Double
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PR1/blob/fcfa459dac7ea1e10a63c677d3fcfe41ed2034f0/Screenshot%202025-11-28%20104511.png)
