@@ -24,3 +24,38 @@ Concepts Covered: Input Handling, String Templates.
 
 ![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PR1/blob/f5035b8f47d963652ed47e8daa31513f7597f08e/Screenshot%202025-11-28%20105345.png)
 
+Concepts Covered: Conditional Expressions, Inline Checks.
+
+1.5 Display Month Name (when Expression) Accepts a number (1–12) from the user. Prints the corresponding month name using the when expression.
+![image alt]()
+Concepts Covered: when Expression, Branching.
+
+1.6 User-Defined Function (Arithmetic Operations) Creates a function that performs: Addition Subtraction Multiplication Division Calls and displays results.
+
+![image alt]()
+
+Concepts Covered: Functions, Parameters, Return Values.
+
+1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number.
+![image alt]()
+
+Concepts Covered: Recursion, Function Calls.
+
+1.8 Working with Arrays Demonstrates: Arrays.deepToString() contentDeepToString() IntArray.joinToString() Uses loop ranges (.., downTo, until) for traversal. Sorts an array: Without built-in functions (manual sorting). With built-in functions (sortedArray()).
+
+![image alt]()
+Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
+
+1.9 Find Maximum Number from ArrayList Accepts an ArrayList. Finds the maximum element using iteration.
+![image alt]()
+Concepts Covered: Collections, Iteration, Conditional Logic.
+
+1.10 Class and Constructor Creation Defines a Car class with properties: type, model, price, owner, milesDriven Implements functions to: Get car information. Get original price and current price. Display details.
+
+![image alt]()
+Concepts Covered: Classes, Primary & Secondary Constructors, Member Functions, Encapsulation.
+
+1.11 Operator Overloading & Matrix Operations Implements a Matrix class. Defines operator functions for: Addition (+) Subtraction (-) Multiplication (*) Overloads toString() for custom display of matrix contents.
+
+![image alt]()
+
