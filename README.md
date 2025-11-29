@@ -32,7 +32,7 @@ Concepts Covered: when Expression, Branching.
 
 1.6 User-Defined Function (Arithmetic Operations) Creates a function that performs: Addition Subtraction Multiplication Division Calls and displays results.
 
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PR1/blob/3e698420d797932259f04ab0d8f8b0c18709f14b/Screenshot%202025-11-29%20095542.png)
 
 Concepts Covered: Functions, Parameters, Return Values.
 
