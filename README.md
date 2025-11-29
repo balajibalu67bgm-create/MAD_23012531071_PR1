@@ -48,7 +48,7 @@ Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
 
 1.9 Find Maximum Number from ArrayList Accepts an ArrayList. Finds the maximum element using iteration.
 Concepts Covered: Collections, Iteration, Conditional Logic.
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PR1/blob/a506b8dc5be124af2b656f1952cb82322c86d751/Screenshot%202025-11-29%20100154.png)
 
 1.10 Class and Constructor Creation Defines a Car class with properties: type, model, price, owner, milesDriven Implements functions to: Get car information. Get original price and current price. Display details.
 
