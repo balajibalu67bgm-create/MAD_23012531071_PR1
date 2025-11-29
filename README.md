@@ -47,8 +47,8 @@ Concepts Covered: Recursion, Function Calls.
 Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
 
 1.9 Find Maximum Number from ArrayList Accepts an ArrayList. Finds the maximum element using iteration.
-![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PR1/blob/2256ce2a4c700423cb1ff319f571352e2b80494b/Screenshot%202025-11-29%20095937.png)
 Concepts Covered: Collections, Iteration, Conditional Logic.
+![image alt]()
 
 1.10 Class and Constructor Creation Defines a Car class with properties: type, model, price, owner, milesDriven Implements functions to: Get car information. Get original price and current price. Display details.
 
